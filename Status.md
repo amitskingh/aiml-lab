@@ -22,17 +22,21 @@ Part 06 — Poisson and Negative Binomial
 Count-based demand modelling
 
 
-Part 07 — Tweedie
+Part 07 — Gamma
+Positive demand magnitude
+
+
+Part 08 — Tweedie
 Compound Poisson–Gamma modelling
 
 
-Part 08 — Hurdle and zero-inflated models
+Part 09 — Hurdle and zero-inflated models
 Occurrence and magnitude modelling
 
 
-Part 09 — Machine learning
+Part 10 — Machine learning
 XGBoost and LightGBM
 
 
-Part 10 — Model evaluation and inventory optimization
+Part 11 — Model evaluation and inventory optimization
 Enterprise forecasting framework
