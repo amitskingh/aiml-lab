@@ -18,7 +18,7 @@ Part 05 — IMAPA
 Multiple aggregation levels
 
 
-Part 06 — Poisson and Negative Binomial
+Part 06 — Poisson
 Count-based demand modelling
 
 
@@ -26,17 +26,21 @@ Part 07 — Gamma
 Positive demand magnitude
 
 
-Part 08 — Tweedie
+Part 08 — Negative Binomial
+Overdispersion and lumpy demand
+
+
+Part 09 — Tweedie
 Compound Poisson–Gamma modelling
 
 
-Part 09 — Hurdle and zero-inflated models
+Part 10 — Hurdle and zero-inflated models
 Occurrence and magnitude modelling
 
 
-Part 10 — Machine learning
+Part 11 — Machine learning
 XGBoost and LightGBM
 
 
-Part 11 — Model evaluation and inventory optimization
+Part 12 — Forecast evaluation and inventory optimization
 Enterprise forecasting framework
